@@ -1,6 +1,6 @@
 # Noclip Plugin
 
-CS:Sharp Noclip your self Plugin
+CS:Sharp Noclip yourself Plugin
 
 ## Command
 - `noclipme` - Toggle noclip mode
