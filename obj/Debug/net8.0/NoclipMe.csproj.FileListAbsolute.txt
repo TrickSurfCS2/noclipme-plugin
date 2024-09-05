@@ -1,0 +1,12 @@
+/home/injurka/My/trick-plugins/NoclipMe/bin/Debug/net8.0/NoclipMe.deps.json
+/home/injurka/My/trick-plugins/NoclipMe/bin/Debug/net8.0/NoclipMe.dll
+/home/injurka/My/trick-plugins/NoclipMe/bin/Debug/net8.0/NoclipMe.pdb
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.csproj.AssemblyReference.cache
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.GeneratedMSBuildEditorConfig.editorconfig
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.AssemblyInfoInputs.cache
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.AssemblyInfo.cs
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.csproj.CoreCompileInputs.cache
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.dll
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/refint/NoclipMe.dll
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/NoclipMe.pdb
+/home/injurka/My/trick-plugins/NoclipMe/obj/Debug/net8.0/ref/NoclipMe.dll
